@@ -1,5 +1,5 @@
 summary: "Badge to monitor and collect in-person interaction data"
 site: "https://www.rhythm.mit.edu/rhythm-badges/"
 color: "red"
-bom: "eagle/nRF_badge/Badge_03_v6/export_20180201/badge_03v6_bom.tsv"
+bom: "1-click-bom.tsv"
 gerbers: "eagle/nRF_badge/Badge_03_v6/export_20180201"
